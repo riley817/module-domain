@@ -2,7 +2,7 @@
 # Edit at https://www.gitignore.io/?templates=vim,node,java,linux,maven,windows,eclipse,intellij
 
 ## Properties
-resources/application-domain.yml
+**/resources/application*.yml
 
 ### Eclipse ###
 .metadata
